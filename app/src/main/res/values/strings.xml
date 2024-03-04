@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HSICoffeeProject</string>
+    <string name="hello">Hey There,</string>
+    <string name="create_account">Create an account</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="terms_and_condition">By continuing you accept our Privacy Policy and Terms of Use</string>
+    <string name="terms_and_condition_header">Terms of Use</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">Or</string>
+    <string name="go_to_login">"Already have an account ? "</string>
+    <string name="go_to_register">"Don't have an account yet? "</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="messages">Messages</string>
+    <string name="settings">Settings\n</string>
+</resources>

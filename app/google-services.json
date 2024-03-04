@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107293907858",
+    "project_id": "hsicoffeesession",
+    "storage_bucket": "hsicoffeesession.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107293907858:android:45212665ef966a93e77f4b",
+        "android_client_info": {
+          "package_name": "com.example.hsicoffeeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLuyxjZA4YyOn7TgOvquVruUpKCu_p8sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
